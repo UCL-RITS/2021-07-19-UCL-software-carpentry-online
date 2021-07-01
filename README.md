@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.com/carpentries/workshop-template.svg?branch=gh-pages)](https://travis-ci.com/carpentries/workshop-template)
 
-# The Carpentries Workshop Template
+# Online UCL Software Carpentry workshop, 19th-22nd July 2021
+
+Link to workshop URL: http://rits.github-pages.ucl.ac.uk/2021-07-19-UCL-software-carpentry-online/
 
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
 [Library Carpentry][lc-site]'s) template for creating websites for workshops.
